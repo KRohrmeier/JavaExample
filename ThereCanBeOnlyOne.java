@@ -1,5 +1,3 @@
-package java111.help.examples;
-
 /**
  * ThereCanBeOnlyOne is a singleton class - to practice using the static keyword,
  * or, "what can you do with static and why would you want to?"
