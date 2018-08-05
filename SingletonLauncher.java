@@ -1,4 +1,3 @@
-package java111.help.examples;
 /**
  * singleton launcher class to practice using the static keyword by creating
  * a singleton class,
